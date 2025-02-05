@@ -8,7 +8,6 @@ import packageJson from "daisyui/package.json" assert { type: "json" };
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),
-    tailwindcss(),
-
-  ],
-})
+    tailwindcss(),],
+}
+)
