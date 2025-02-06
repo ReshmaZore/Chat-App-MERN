@@ -2,7 +2,6 @@
 
 ChatNest is a **real-time chat application** built using the **MERN stack**, **Zustand** for state management, **DaisyUI** and **Tailwind CSS** for UI, and **Socket.io** for real-time communication.
 
-![ChatNest Preview](#) <!-- Add a screenshot link here -->
 
 ## 🚀 Features
 
