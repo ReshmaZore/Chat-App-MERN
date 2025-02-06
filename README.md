@@ -68,8 +68,7 @@ cd client
 npm run dev
 ```
 
-## 🎨 UI Preview
-![ChatNest UI](#) <!-- Add a screenshot link here -->
+
 
 ## 🤝 Contribution
 Feel free to fork and contribute! Submit a PR with your improvements. 🚀
