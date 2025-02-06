@@ -77,7 +77,7 @@ Feel free to fork and contribute! Submit a PR with your improvements. 🚀
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-For any queries, reach out at **your-email@example.com** or connect on [LinkedIn](#).
+For any queries, reach out at **reshmazore7104@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/reshma-zore-8a250b269/).
 
 Happy Coding! 🎉
 
