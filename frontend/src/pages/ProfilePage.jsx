@@ -95,7 +95,7 @@ const ProfilePage = () => {
                 <span className="text-green-500">Active</span>
               </div>
             </div>
-          </div> 
+          </div>
         </div>
       </div>
     </div>
